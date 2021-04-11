@@ -1,6 +1,6 @@
 # Robotic Arm
-<img src="https://github.com/jdh0312/Configuration-space-planning/blob/main/result.jpg" width="40%"></img> 
-<img src="https://github.com/jdh0312/Configuration-space-planning/blob/main/resultMaze.jpg" width="20%"></img> 
+<img src="https://github.com/tonyjoo974/Configuration-space-planning/blob/main/result.jpg" width="40%"></img> 
+<img src="https://github.com/tonyjoo974/Configuration-space-planning/blob/main/resultMaze.jpg" width="20%"></img> 
 
 ## Goal:
 Transform a 2D planning problem for a robotic arm into a configuration space, and then search for a path in that space.
